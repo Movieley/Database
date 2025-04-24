@@ -1,99 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <programme start="20250424202703 +0000" stop="20250424222703 +0000" channel="tt6119504">
-    <title lang="tr">Lise Gerçeği</title>
-    <desc lang="tr">Liseli inek Dani, uzun süredir aşık olduğu oğlanın dikkatini çekmeyi sonunda başarır. Ama oğlanın sosyal medya fenomeni eski sevgilisinin hedefinde de artık Dani vardır.</desc>
-    <category>Komedi</category>
-    <icon src="https://image.tmdb.org/t/p/w500/iZliPeiiDta9KbONAhdFSXhTxrO.jpg"/>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="tt33615797">
+    <display-name>13 KERA</display-name>
+    <display-name>13 KERA TX42822:-</display-name>
+    <display-name>13</display-name>
+    <display-name>13 KERA fcc</display-name>
+    <display-name>KERA</display-name>
+    <display-name>KERA</display-name>
+    <display-name>PBS Affiliate</display-name>
+    <icon src="file://C:\Perl\site/share/xmltv/icons/KERA.gif" />
+  </channel>
+  <channel id="I10759.labs.zap2it.com">
+    <display-name>11 KTVT</display-name>
+    <display-name>11 KTVT TX42822:-</display-name>
+    <display-name>11</display-name>
+    <display-name>11 KTVT fcc</display-name>
+    <display-name>KTVT</display-name>
+    <display-name>KTVT</display-name>
+    <display-name>CBS Affiliate</display-name>
+    <icon src="file://C:\Perl\site/share/xmltv/icons/KTVT.gif" />
+  </channel>
+  <programme id="someId" start="20080715003000 -0600" stop="20080715010000 -0600" channel="I10436.labs.zap2it.com">
+    <title lang="en">NOW on PBS</title>
+    <desc lang="en">Jordan's Queen Rania has made job creation a priority to help curb the staggering unemployment rates among youths in the Middle East.</desc>
+    <date>20080711</date>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP01006886.0028</episode-num>
+    <episode-num system="onscreen">427</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20080711000000" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424203203 +0000" stop="20250424223203 +0000" channel="tt33615797">
-    <title lang="tr">Her Şey Bitti: İspanyol Futbolunu Değiştiren Öpücük</title>
-    <desc lang="tr">İspanyol futbolcular, çalkantılı 2023 Kadınlar Dünya Kupası&#x27;nı ve zaferlerini gölgeleyen öpücüğü yeniden hatırlamak için ilk kez bir araya geliyor.</desc>
-    <category>Belgesel</category>
-    <icon src="https://image.tmdb.org/t/p/w500/s3ySNQjaKSatYdVevbOLlNK0nS.jpg"/>
+  <programme start="20080715010000 -0600" stop="20080715023000 -0600" channel="I10436.labs.zap2it.com">
+    <title lang="en">Mystery!</title>
+    <sub-title lang="en">Foyle's War, Series IV: Bleak Midwinter</sub-title>
+    <desc lang="en">Foyle investigates an explosion at a munitions factory, which he comes to believe may have been premeditated.</desc>
+    <date>20070701</date>
+    <category lang="en">Anthology</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00003026.0665</episode-num>
+    <episode-num system="onscreen">2705</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070701000000" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424203703 +0000" stop="20250424223703 +0000" channel="tt1022603">
-    <title lang="tr">Aşkın (500) Günü</title>
-    <desc lang="tr">Alışılmamış türde bir romantik komedi olan film, aşkın gerçek olduğuna inanmayan bir kadın ve ona aşık olan bir adamın hikayesini anlatıyor. Tom Hansen, hayatından tamamen çıktığına emin olduğu zaman Summer Finn ile tanıştığı ilk günü hatırlar. Tom, kızı ilk gördüğü anda aşık olur. Hayatının geri kalan kısmını bu kızla birlikte geçirmesi gerektiğini biliyordur. Ne var ki Summer ne aşka ne ilişkilere inanmamaktadır. Buna rağmen aralarında arkadaşlıktan öte farklı bir ilişki başlar. Birlikte geçirecekleri günler sıradışı, eğlenceli ve komik bir hikayeye tanıklık edecektir.</desc>
-    <category>Komedi / Dram / Romantik</category>
-    <icon src="https://image.tmdb.org/t/p/w500/wh2ZELgHtASchRypeiHGWkZztL4.jpg"/>
+  <programme start="20080715023000 -0600" stop="20080715040000 -0600" channel="I10436.labs.zap2it.com">
+    <title lang="en">Mystery!</title>
+    <sub-title lang="en">Foyle's War, Series IV: Casualties of War</sub-title>
+    <desc lang="en">The murder of a prominent scientist may have been due to a gambling debt.</desc>
+    <date>20070708</date>
+    <category lang="en">Anthology</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00003026.0666</episode-num>
+    <episode-num system="onscreen">2706</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070708000000" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424204203 +0000" stop="20250424224203 +0000" channel="tt0823406">
-    <title lang="tr">.hack//GIFT</title>
-    <desc lang="tr"></desc>
-    <category>Animasyon / Bilim-Kurgu / Fantastik / Komedi</category>
-    <icon src="https://image.tmdb.org/t/p/w500/hhkNk1vsgamCv0OFfxJRcAnbW50.jpg"/>
+  <programme start="20080715040000 -0600" stop="20080715043000 -0600" channel="I10436.labs.zap2it.com">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">International issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">SH00315789.0000</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424204703 +0000" stop="20250424224703 +0000" channel="tt1649443">
-    <title lang="tr">Rec 4: Kıyamet Gecesi</title>
-    <desc lang="tr">Angela, insanları şeytanileştiren bir zombi virüsünün yayılmasıyla vahşet evine dönen binadan kurtulan tek insandır. Gözlerini bir okyanus tankerinin yüksek korumalı karantina odasında açan Angela artık güvendedir. Gemideki diğer insanlar için ise bunu söylemek mümkün değil, zira tecrit edilmiş gemi ortamı sayesinde zombi virüsü mutasyona uğrayarak güçlenip, bedeni ve ruhu ele geçiren ölüm makinesine dönüşür.</desc>
-    <category>Gerilim / Korku</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eoLawiakz81rykAHi3lkeYErIM.jpg"/>
+  <programme start="20080715043000 -0600" stop="20080715050000 -0600" channel="I10436.labs.zap2it.com">
+    <title lang="en">Sit and Be Fit</title>
+    <date>20070924</date>
+    <category lang="en">Exercise</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00003847.0074</episode-num>
+    <episode-num system="onscreen">901</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070924000000" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424205203 +0000" stop="20250424225203 +0000" channel="tt0092086">
-    <title lang="tr">Üç Kabadayı</title>
-    <desc lang="tr">Sessiz film döneminde three amigos adı ile çevirdikleri filmler bir dönem iş yapmış üç aktör işsiz kalmışlardır. Bu arada Meksika&#x27;nın bir köyünde El Guapo isimli haydut ortalığı haraca bağlamış ve terör estirmektedir. El Guopa&#x27;dan bıkan köy halkı tüm paralarını birleştirerek onu yok etmek için kiralık silahşör tutmaya karar verirler. Sinema&#x27;da gördükleri üç silahşörü gerçek sanan köy halkı mektup yazarak iş tekliflerini iletirler. Gelen teklifi bir film sanan üç silahşör köye gider. Ancak bir süre sonra onlar olayın ciddiyetini, köy halkı da onların beceriksizliğini anlar. Yine de pes etmeyen üç silahşör El Guopa&#x27;yı alt etmek için planlarını yaparlar.</desc>
-    <category>Komedi / Vahşi Batı / Dram</category>
-    <icon src="https://image.tmdb.org/t/p/w500/tKcOxhaBpLdvo8lExbz5AgpuGwc.jpg"/>
+  <programme start="20080715060000 -0600" stop="20080715080000 -0600" channel="I10759.labs.zap2it.com">
+    <title lang="en">The Early Show</title>
+    <desc lang="en">Republican candidate John McCain; premiere of the film "The Dark Knight."</desc>
+    <date>20080715</date>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00337003.2361</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424205703 +0000" stop="20250424225703 +0000" channel="tt14153448">
-    <title lang="tr">Yaşasın Maestro!</title>
-    <desc lang="tr">Orkestra şefi Gustavo Dudamel, en büyük senfonik eserlerin özgün yorumlarıyla müzik dünyasını ateşliyor. Time&#x27;ın &quot;En Etkili 100 Kişisi&quot; arasında gösterildi ve Los Angeles Filarmoni Orkestrası&#x27;nın müzik ve sanat yönetmeni olarak görev yapıyor. Memleketi Venezuela&#x27;daki toplumsal huzursuzluğun ortasında, sanatın yenileme ve birleştirme gücünü kutlayan yenilikçi bir konser tasarlar.</desc>
-    <category>Belgesel / Müzik</category>
-    <icon src="https://image.tmdb.org/t/p/w500/uNkTGpXUcZY9R6g3koATX1Pe6yN.jpg"/>
+  <programme start="20080715080000 -0600" stop="20080715090000 -0600" channel="I10759.labs.zap2it.com">
+    <title lang="en">Rachael Ray</title>
+    <desc lang="en">Actresses Kim Raver, Brooke Shields and Lindsay Price ("Lipstick Jungle"); women in their 40s tell why they got breast implants; a 30-minute meal.</desc>
+    <credits>
+      <presenter>Rachael Ray</presenter>
+    </credits>
+    <date>20080306</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00847333.0303</episode-num>
+    <episode-num system="onscreen">2119</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20080306000000" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20250424210203 +0000" stop="20250424230203 +0000" channel="tt0443649">
-    <title lang="tr">M.Ö. 10.000</title>
-    <desc lang="tr">Uzak bir dağ kabilesindeki genç avcı D’Leh kalbinin kraliçesini bulmuştur: Güzel Evolet. Gizemli bir savaşçı grup, köyünü yağmalayıp Evolet’i kaçırınca D’Leh sevdiği kadını kurtarmak için savaşçıların peşinden dünyanın öbür ucuna kadar gitmek üzere küçük bir avcı grubuna önderlik etmek zorunda kalır. Kaderin rüzgarına kapılan bu zoraki savaşçı, avcı grup, kılıç dişli kaplanlar ve tarih öncesi yırtıcılarıyla mücadele eder; kahramanca yolculuklarının sonunda bir Kayıp Uygarlığı ortaya çıkarırlar. Nihai kaderlerinde dev piramitlerin gökyüzüne uzandığı, hayallerin ötesinde bir imparatorluk vardır. Burada D’Leh’inin halkını zorla köleleştiren güçlü bir tanrıyla karşı karşıya geleceklerdir.</desc>
-    <category>Macera / Aksiyon / Dram / Fantastik</category>
-    <icon src="https://image.tmdb.org/t/p/w500/xSJ841Kctj93gO1y25jBhQHayHg.jpg"/>
+  <programme start="20080715090000 -0600" stop="20080715100000 -0600" channel="I10759.labs.zap2it.com">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+    <credits>
+      <director>Bart Eskander</director>
+      <producer>Roger Dobkowitz</producer>
+      <presenter>Drew Carey</presenter>
+    </credits>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">SH00004372.0000</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <subtitles type="teletext" />
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20250424210703 +0000" stop="20250424230703 +0000" channel="tt1772271">
-    <title lang="tr">3, 2, 1... Frankie Go Boom</title>
-    <desc lang="tr">3,2,1 … FRANKIE GO BOOM tüm hayatı boyunca ağabeyi Bruce (Chris O’Dowd) tarafından işkence görmüş, utandırılmış ve aşağılanmış olan Frank Bartlett’in (Charlie Hunnam) hikayesini anlatıyor. Bruce sonunda uyuşturucu kullanmayı bırakmış ve hayatını tamamen değiştirmiştir. Yani kardeşine de artık eskisi gibi davranmamalıdır, öyle değil mi? Değil. 3,2,1 … FRANKIE GO BOOM iki erkek kardeş, kalbi kırık bir kız, bir seks kasedi, bir melek ve bir domuzla ilgili bir komedi filmi...</desc>
-    <category>Komedi</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5JOlPMiErxebf0nBDW8dK64zF3n.jpg"/>
+  <programme start="20080715100000 -0600" stop="20080715103000 -0600" channel="I10759.labs.zap2it.com">
+    <title lang="en">Jeopardy!</title>
+    <credits>
+      <presenter>Alex Trebek</presenter>
+    </credits>
+    <date>20080715</date>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00002348.1700</episode-num>
+    <episode-num system="onscreen">5507</episode-num>
+    <subtitles type="teletext" />
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20250424211203 +0000" stop="20250424231203 +0000" channel="tt0147800">
-    <title lang="tr">Senden Nefret Etmemin 10 Sebebi</title>
-    <desc lang="tr">Bianca ve Kat iki kızkardeştir. Küçük olan Bianca okulun güzel ve populer kızlarından biridir fakat hiç kimseyle çıkmamıştır. Ablası Kat ise asabi, alaycı ve sert bir mizacdadır. Buna bir de kesin karalılığı eklenince hiçbir erkek ona yanaşmamaktadır. Bianca bir erkek arkadaşla çıkmayı çok istediği halde Stanford ailesindeki kurallar yüzünden bu isteğini gerçekleştirememektedir. Bu kurallara göre Biancanın birisiyle çıkması için önce ablası Katin birisiyle çıkması gerekmektedir ki bu imkansızla eşdeğerdir. Bianca bu sorunu çözmek için okuldaki hiçbir kızı beğenmeyen bir genci devreye sokacaktır.</desc>
-    <category>Komedi / Romantik / Dram</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gLD17LxB5QsEU5EsA7JwD8ZWPuk.jpg"/>
-  </programme>
-  <programme start="20250424211703 +0000" stop="20250424231703 +0000" channel="tt2290065">
-    <title lang="tr">100 Bloody Acres</title>
-    <desc lang="tr"></desc>
-    <category>Komedi / Korku</category>
-    <icon src="https://image.tmdb.org/t/p/w500/jYUolYFQ7F8E2rEunRNwtbpLwmW.jpg"/>
-  </programme>
-  <programme start="20250424212203 +0000" stop="20250424232203 +0000" channel="tt13782052">
-    <title lang="tr">Noel&#x27;den Kaçış Yok</title>
-    <desc lang="tr">Noel temalı bu masalsı romantik komedide kendini Noel ruhuna kaptırmayı gönülsüzce öğrenen, 30&#x27;lu yaşlardaki bir adamın hikayesi anlatılıyor.</desc>
-    <category>Komedi / Romantik / Aile</category>
-    <icon src="https://image.tmdb.org/t/p/w500/dXEtICgk28bDJbhrQObIfwtSgjv.jpg"/>
-  </programme>
-  <programme start="20250424212703 +0000" stop="20250424232703 +0000" channel="tt6210996">
-    <title lang="tr">10 x 10</title>
-    <desc lang="tr">Huzurlu ve sakin bir şehirde yaşayan Cathy, bir gün yoga dersi çıkışında Lewis adlı birisi tarafından kaçırılır. Lewis, bu kaçırma girişimi için her şeyi titizlikle planlamıştır. Genç kadını ses geçirmeyen, 10 metrekarelik bir odaya kapatır ve ona geçmişiyle ilgili sorular sormaya başlar. İçten içe intikam almayı takıntı haline getiren Lewis, evdeki tüm konuşmaları kaydetmekte ve Cathy’ye saklamaya kararlı olduğu bazı sırları itiraf ettirmeye çalışmaktadır. Fakat Cathy’nin kolay pes etmeye niyeti yoktur ve aralarındaki gerilim arttıkça kurbanın kim olduğu belirsizleşecektir.</desc>
-    <category>Dram / Gizem / Gerilim</category>
-    <icon src="https://image.tmdb.org/t/p/w500/muaawkTK0DpubUXGQ6HzFIZg2nd.jpg"/>
-  </programme>
-  <programme start="20250424213203 +0000" stop="20250424233203 +0000" channel="tt8482584">
-    <title lang="tr">Futbolun Çocukları</title>
-    <desc lang="tr">Futbolun Çocukları, Büyük Burhan sırasında ayakkabısız ve hatta topsuz bir şekilde futbol oynamaya başladıktan sonra Teksas eyalet şampiyonalarında yer almayı başaran Fort Worth&#x27;teki bir yetimhanenin futbol takımı Mighty Mites&#x27;in gerçek hikâyesini anlatıyor. Galip oldukları sezon boyunca bu mazlum çocuklar ve güçlü kişilikleri, şehirlerine, eyaletlerine ve toparlanmaya ihtiyacı olan bir ulusun tümüne ilham kaynağı oldu, hatta Başkan Franklin D. Roosevelt&#x27;in bile dikkatini çekti. Gösterdikleri başarının arkasında, bir yetimhanede koçluk yapabilmek için sahip olduğu ayrıcalıklı konumdan vazgeçerek meslektaşlarını şaşırtan efsanevi bir lise koçu olan Rusty Russell vardı. Russell&#x27;ın çok az kişinin bildiği bir sırrı vardı, o da bir yetimdi. Fiziksel olarak zayıf olan oyuncularının diğer takımları kas gücüyle yenemeyeceklerini anlayan Russell, modern futbolu da tanımlayacak yenilikçi stratejiler geliştirdi.</desc>
-    <category>Tarih / Dram / Aksiyon</category>
-    <icon src="https://image.tmdb.org/t/p/w500/6onqpr6mDc0BVK0rGBisXlFvsWh.jpg"/>
-  </programme>
-  <programme start="20250424213703 +0000" stop="20250424233703 +0000" channel="tt2317524">
-    <title lang="tr">12 Tuzak 2: Kanunsuz</title>
-    <desc lang="tr">Bir Sonraki Tuzağın Ne Olduğunu Asla Tahmin Edemezsin! Sağlık görevlisi Nick Malloy (Orton), geçmişten beri peşini bırakmayan, intikam dolu psikopatla (Brian Markinson) yaptığı telefon konuşmasından sonra, kendini bir kedi fare oyununun içide bulur. Karısının hayatı tehlike altındayken, Nick çok geç olmadan gizemli ipuçlarını bir araya getirerek katili yakalamak zorundadır!</desc>
-    <category>Aksiyon / Macera</category>
-    <icon src="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg"/>
-  </programme>
-  <programme start="20250424214203 +0000" stop="20250424234203 +0000" channel="tt1413492">
-    <title lang="tr">12 Savaşçı</title>
-    <desc lang="tr">Ailelerini geride bırakan ekip, Kuzey Afganistan&#x27;ın uzak, engebeli arazisine yerleştirilir ve burada ortak düşmanları Taliban ve El-Kaide&#x27;ye karşı savaşmak için General Rashid Dostum&#x27;u ikna etmeleri gerekmektedir. Karşılıklı güvensizliği ve geniş bir kültürel bölünmeyi yenmenin yanı sıra Amerikalılar, Afgan atlı askerlerinin taktiklerini de benimsemek zorunda kalırlar. Kolay olmayan bir bağ oluşturup saygı oluşturmalarına rağmen yeni müttefikler çok fazla sayıda ve tutsak almayan acımasız bir düşmanla karşı karşıya kalırlar.</desc>
-    <category>Savaş / Dram / Aksiyon / Tarih</category>
-    <icon src="https://image.tmdb.org/t/p/w500/aTDJmDcJxUi1I9QvSpCyAvws0aR.jpg"/>
+  <programme start="20080715103000 -0600" stop="20080715113000 -0600" channel="I10759.labs.zap2it.com">
+    <title lang="en">The Young and the Restless</title>
+    <sub-title lang="en">Sabrina Offers Victoria a Truce</sub-title>
+    <desc lang="en">Jeff thinks Kyon stole the face cream; Nikki asks Nick to give David a chance; Amber begs Adrian to go to Australia.</desc>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Jeanne Cooper</actor>
+      <actor>Melody Thomas Scott</actor>
+    </credits>
+    <date>20080715</date>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <episode-num system="dd_progid">EP00004422.1359</episode-num>
+    <episode-num system="onscreen">8937</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <subtitles type="teletext" />
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
   </programme>
 </tv>
