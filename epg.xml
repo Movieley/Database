@@ -108,7 +108,7 @@
     <category>Bilim-Kurgu / Gizem / Gerilim / Romantik</category>
     <icon src="https://image.tmdb.org/t/p/w500/rj0h3RnKX5CB8X5UE1PfpMSV4MP.jpg"/>
   </programme>
-  <programme start="20250425234608 +0000" stop="20250426012708 +0000" channel="tt1221208">
+  <programme start="220250425220708 +0000" stop="20250425234608 +0000" channel="tt1221208">
     <title lang="tr">Frankie ve Alice</title>
     <desc lang="tr">Gerçek benliğini korumak için mücadele eden ve ona musallat olan iç hayaletlerin gizemini ortaya çıkarmak için bir psikoterapistle çalışmaya başlayan, çoklu kişilik bozukluğu olan bir go-go dansçısına odaklanan bir drama.</desc>
     <category>Dram / Gerilim</category>
@@ -152,7 +152,8 @@
   </programme>
   <programme start="20250426113108 +0000" stop="20250426130608 +0000" channel="tt2317524">
     <title lang="tr">12 Tuzak 2: Kanunsuz</title>
-    <desc lang="tr">Bir Sonraki Tuzağın Ne Olduğunu Asla Tahmin Edemezsin! Sağlık görevlisi Nick Malloy (Orton), geçmişten beri peşini bırakmayan, intikam dolu psikopatla (Brian Markinson) yaptığı telefon konuşmasından sonra, kendini bir kedi fare oyununun içide bulur. Karısının hayatı tehlike altındayken, Nick çok geç olmadan gizemli ipuçlarını bir araya getirerek katili yakalamak zorundadır!</desc>
+    <desc lang="tr">Bir Sonraki Tuzağın Ne Olduğunu Asla Tahmin Edemezsin!
+ Sağlık görevlisi Nick Malloy (Orton), geçmişten beri peşini bırakmayan, intikam dolu psikopatla (Brian Markinson) yaptığı telefon konuşmasından sonra, kendini bir kedi fare oyununun içide bulur. Karısının hayatı tehlike altındayken, Nick çok geç olmadan gizemli ipuçlarını bir araya getirerek katili yakalamak zorundadır!</desc>
     <category>Aksiyon / Macera</category>
     <icon src="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg"/>
   </programme>
