@@ -18,31 +18,31 @@
   <channel id="tt8482584"><display-name>Futbolun Çocukları</display-name></channel>
   <channel id="tt2317524"><display-name>12 Tuzak 2: Kanunsuz</display-name></channel>
   <channel id="tt1413492"><display-name>12 Savaşçı</display-name></channel>
-  <programme start="20170717000000" stop="20990101013900" channel="tt6119504">
+  <programme channel="tt6119504">
     <title lang="tr">Lise Gerçeği</title>
     <desc lang="tr">Liseli inek Dani, uzun süredir aşık olduğu oğlanın dikkatini çekmeyi sonunda başarır. Ama oğlanın sosyal medya fenomeni eski sevgilisinin hedefinde de artık Dani vardır.</desc>
     <category>Komedi</category>
     <icon src="https://image.tmdb.org/t/p/w500/iZliPeiiDta9KbONAhdFSXhTxrO.jpg"/>
   </programme>
-  <programme start="20241031000000 +0000" stop="20990101013500 +0000" channel="tt33615797">
+  <programme start="20241031000000" stop="20990101013500" channel="tt33615797">
     <title lang="tr">Her Şey Bitti: İspanyol Futbolunu Değiştiren Öpücük</title>
     <desc lang="tr">İspanyol futbolcular, çalkantılı 2023 Kadınlar Dünya Kupası'nı ve zaferlerini gölgeleyen öpücüğü yeniden hatırlamak için ilk kez bir araya geliyor.</desc>
     <category>Belgesel</category>
     <icon src="https://image.tmdb.org/t/p/w500/8SKyGF5y2mM9edkW11zYyo2pbsn.jpg"/>
   </programme>
-  <programme start="20090717000000 +0000" stop="20990101013500 +0000" channel="tt1022603">
+  <programme start="20090717000000" stop="20990101013500" channel="tt1022603">
     <title lang="tr">Aşkın (500) Günü</title>
     <desc lang="tr">Alışılmamış türde bir romantik komedi olan film, aşkın gerçek olduğuna inanmayan bir kadın ve ona aşık olan bir adamın hikayesini anlatıyor. Tom Hansen, hayatından tamamen çıktığına emin olduğu zaman Summer Finn ile tanıştığı ilk günü hatırlar. Tom, kızı ilk gördüğü anda aşık olur. Hayatının geri kalan kısmını bu kızla birlikte geçirmesi gerektiğini biliyordur. Ne var ki Summer ne aşka ne ilişkilere inanmamaktadır. Buna rağmen aralarında arkadaşlıktan öte farklı bir ilişki başlar. Birlikte geçirecekleri günler sıradışı, eğlenceli ve komik bir hikayeye tanıklık edecektir.</desc>
     <category>Komedi / Dram / Romantik</category>
     <icon src="https://image.tmdb.org/t/p/w500/wh2ZELgHtASchRypeiHGWkZztL4.jpg"/>
   </programme>
-  <programme start="20070720000000 +0000" stop="20990101012900 +0000" channel="tt0475289">
+  <programme start="20070720000000" stop="20990101012900" channel="tt0475289">
     <title lang="tr">Gerçek Cinayetler</title>
     <desc lang="tr">Korku filmi tutkunu bir çift, Vincent King ve karısı Mary Shelley başlarına geleceklerden habersiz oyuncuların yardımı ile dehşet verici bir korku filmi yapmaya karar verirler. Ders notlarını yükseltmek isteyen bir grup öğrenci, "Kral'ın Adası"na yapılan vahşi doğa inceleme gezisine katılırlar. Fakat dehşet verici bir korku filminin gerçek oyuncuları olacaklarından habersizlerdir. Ölüm bazen habersiz gelir ve filme alındığında tamamıyla gerçektir.</desc>
     <category>Komedi / Korku</category>
     <icon src="https://image.tmdb.org/t/p/w500/bMYJsQzAObi5m3zcXldSiyLAOaa.jpg"/>
   </programme>
-  <programme start="20141031000000 +0000" stop="20990101013500 +0000" channel="tt1649443">
+  <programme start="20141031000000" stop="20990101013500" channel="tt1649443">
     <title lang="tr">Rec 4: Kıyamet Gecesi</title>
     <desc lang="tr">Angela, insanları şeytanileştiren bir zombi virüsünün yayılmasıyla vahşet evine dönen binadan kurtulan tek insandır. Gözlerini bir okyanus tankerinin yüksek korumalı karantina odasında açan Angela artık güvendedir. Gemideki diğer insanlar için ise bunu söylemek mümkün değil, zira tecrit edilmiş gemi ortamı sayesinde zombi virüsü mutasyona uğrayarak güçlenip, bedeni ve ruhu ele geçiren ölüm makinesine dönüşür.</desc>
     <category>Gerilim / Korku</category>
