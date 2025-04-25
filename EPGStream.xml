@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="Movieley XMLTV Generator" generator-info-name="M3U8Updater">
+  <channel id="tt1131724"><display-name>2:22</display-name></channel>
+  <channel id="tt2290065"><display-name>100 Bloody Acres</display-name></channel>
+  <channel id="tt6210996"><display-name>10 x 10</display-name></channel>
+  <programme start="20170629000000 +0000" stop="20990101013900 +0000" channel="tt1131724">
+    <title lang="tr">2:22</title>
+    <desc lang="tr">New York'ta hava trafiği kontrol merkezinde çalışan Dylan Branson, kariyerinin zirvesindedir. Bir gün, saat 2:22'de bir ışık huzmesi yüzünden birkaç saniyeliğine kör olup iki uçağın neredeyse havada çarpışmasına neden olmasıyla hayatı tepetaklak olur. Bir süreliğine işinden uzaklaştırılan Dylan, bir süre sonra her gün aynı saatte, aynı seslerin ve olayların birbirini tekrar etmeye başladığını fark eder. Giderek artan bu tekrarlar, onu her gün saat 2:22'de gizemli bir biçimde Grand Central Terminali'ne çeker. Bir sanat galerisinde çalışan güzeller güzeli Sarah ile tesadüfen tanışan Dylan, onun da çarpışmak üzere olan uçaklardan birinin yolcusu olduğunu öğrenir. Sarah ile karmaşık bir ilişkinin içine sürüklendikçe geçmişin döngüsünü kırıp, zamanın kontrolünü yeniden eline alması gerektiğini fark edecektir.</desc>
+    <category>Bilim-Kurgu / Gizem / Gerilim / Romantik</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rj0h3RnKX5CB8X5UE1PfpMSV4MP.jpg"/>
+  </programme>
+  <programme start="20120804000000 +0000" stop="20990101013100 +0000" channel="tt2290065">
+    <title lang="tr">100 Bloody Acres</title>
+    <desc lang="tr"></desc>
+    <category>Komedi / Korku</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jYUolYFQ7F8E2rEunRNwtbpLwmW.jpg"/>
+  </programme>
+  <programme start="20180316000000 +0000" stop="20990101012800 +0000" channel="tt6210996">
+    <title lang="tr">10 x 10</title>
+    <desc lang="tr">Huzurlu ve sakin bir şehirde yaşayan Cathy, bir gün yoga dersi çıkışında Lewis adlı birisi tarafından kaçırılır. Lewis, bu kaçırma girişimi için her şeyi titizlikle planlamıştır. Genç kadını ses geçirmeyen, 10 metrekarelik bir odaya kapatır ve ona geçmişiyle ilgili sorular sormaya başlar. İçten içe intikam almayı takıntı haline getiren Lewis, evdeki tüm konuşmaları kaydetmekte ve Cathy’ye saklamaya kararlı olduğu bazı sırları itiraf ettirmeye çalışmaktadır. Fakat Cathy’nin kolay pes etmeye niyeti yoktur ve aralarındaki gerilim arttıkça kurbanın kim olduğu belirsizleşecektir.</desc>
+    <category>Dram / Gizem / Gerilim</category>
+    <icon src="https://image.tmdb.org/t/p/w500/muaawkTK0DpubUXGQ6HzFIZg2nd.jpg"/>
+  </programme>
+</tv>
