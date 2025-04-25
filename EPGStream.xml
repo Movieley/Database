@@ -18,7 +18,7 @@
   <channel id="tt8482584"><display-name>Futbolun Çocukları</display-name></channel>
   <channel id="tt2317524"><display-name>12 Tuzak 2: Kanunsuz</display-name></channel>
   <channel id="tt1413492"><display-name>12 Savaşçı</display-name></channel>
-  <programme start="20170717000000 +0000" stop="20990101013900 +0000" channel="tt6119504">
+  <programme start="20170717000000" stop="20990101013900" channel="tt6119504">
     <title lang="tr">Lise Gerçeği</title>
     <desc lang="tr">Liseli inek Dani, uzun süredir aşık olduğu oğlanın dikkatini çekmeyi sonunda başarır. Ama oğlanın sosyal medya fenomeni eski sevgilisinin hedefinde de artık Dani vardır.</desc>
     <category>Komedi</category>
@@ -116,7 +116,8 @@
   </programme>
   <programme start="20130601000000 +0000" stop="20990101013500 +0000" channel="tt2317524">
     <title lang="tr">12 Tuzak 2: Kanunsuz</title>
-    <desc lang="tr">Bir Sonraki Tuzağın Ne Olduğunu Asla Tahmin Edemezsin! Sağlık görevlisi Nick Malloy (Orton), geçmişten beri peşini bırakmayan, intikam dolu psikopatla (Brian Markinson) yaptığı telefon konuşmasından sonra, kendini bir kedi fare oyununun içide bulur. Karısının hayatı tehlike altındayken, Nick çok geç olmadan gizemli ipuçlarını bir araya getirerek katili yakalamak zorundadır!</desc>
+    <desc lang="tr">Bir Sonraki Tuzağın Ne Olduğunu Asla Tahmin Edemezsin!
+ Sağlık görevlisi Nick Malloy (Orton), geçmişten beri peşini bırakmayan, intikam dolu psikopatla (Brian Markinson) yaptığı telefon konuşmasından sonra, kendini bir kedi fare oyununun içide bulur. Karısının hayatı tehlike altındayken, Nick çok geç olmadan gizemli ipuçlarını bir araya getirerek katili yakalamak zorundadır!</desc>
     <category>Aksiyon / Macera</category>
     <icon src="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg"/>
   </programme>
