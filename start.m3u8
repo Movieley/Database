@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+#EXT-X-ENDLIST
