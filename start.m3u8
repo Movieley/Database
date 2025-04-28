@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" channel_id=""  tvg-name="ATV" tvg-country="TR" tvg-language="tr" tvg-url="" group-title="GENEL İZLEYİCİ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png", ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-## http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-## https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1744255297&st=Gmrdb4-ImW-QHsimAx8Oug&sid=7b7tbst7mnkf&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-## https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
-## http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://cdn.jsdelivr.net/gh/aykutkardas/free-hls/test/video/playlist.m3u8
