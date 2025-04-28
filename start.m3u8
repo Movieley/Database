@@ -1,4 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXT-X-ENDLIST
+#EXT-X-VERSION:3
+
+# Ana kaynak
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://raw.githubusercontent.com/suphero/IPTV/refs/heads/master/TR.m3u8
+
+# Alternatif kaynak
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://yedek1.com/video.m3u8
+
+# İkinci alternatif
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://yedek2.com/video.m3u8
