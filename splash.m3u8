@@ -1,0 +1,326 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE"tvg-logo="",TRT SPOR
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",S SPORT 1
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",S SPORT 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",LALIGA TV
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",BEIN 1 TÜRKİYE
+https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",BEIN 2 TÜRKİYE 
+https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",BEIN 3 TÜRKİYE
+https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE" tvg-logo="",BEIN 4 TÜRKİYE
+https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",CBS SPORTS
+https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSVEÇ"tvg-logo="",TV4 PLAY
+https://zekonew.newkso.ru/zeko/premium703/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKİYE"tvg-logo="",SPORTS TV
+#http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSVEÇ"tvg-logo="",TV4 SPORTKANALEN
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",DAZN 1
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",DAZN 2
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ"tvg-logo="",DAZN 1
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ"tvg-logo="",DAZN 3
+http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSPANYA"tvg-logo="",SKY SPORTS LALIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="BULGARİSTAN"tvg-logo="",MAX SPORT 3
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="POLONYA"tvg-logo="",POLSAT SPORT 2
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="YUNANİSTAN"tvg-logo="",NOVA SPORTS 6
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="YUNANİSTAN"tvg-logo="",NOVA SPORTS START
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 1
+https://windnew.newkso.ru/wind/premium911/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="SIRBİSTAN"tvg-logo="",ARENA SPORT 1
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="KANADA"tvg-logo="",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İTALYA"tvg-logo="",ESPN VIVO
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSPANYA"tvg-logo="",CANAL PLUS SPORT
+https://windnew.newkso.ru/wind/premium259/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 2
+https://windnew.newkso.ru/wind/premium912/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 4
+https://windnew.newkso.ru/wind/premium914/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 3
+https://windnew.newkso.ru/wind/premium913/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 5
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 6
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="GÜNEY KIBRIS"tvg-logo="",CYTA VISION 7
+https://windnew.newkso.ru/wind/premium917/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",SKY SPORT F1
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ"tvg-logo="",DAZN 4
+http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",BEIN İNGİLTERE
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSPANYA"tvg-logo="",BEIN X İSPANYA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 1 FRANSA
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 2 FRANSA
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 3 FRANSA
+https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 4 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 5 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 6 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 7 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 8 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 9 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",BEIN 10 FRANSA
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="BAHREYN"tvg-logo="",BEIN 1 BAHREYN
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",BEIN ABD
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="HOLLANDA" tvg-logo="",ZIGGO 1
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="HOLLANDA" tvg-logo="",ZIGGO 2
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="HOLLANDA" tvg-logo="",ZIGGO 4
+https://windnew.newkso.ru/wind/premium396/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="HOLLANDA" tvg-logo="",ZIGGO 5
+https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PAKİSTAN"tvg-logo="",TEN SPORTS
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="KANADA"tvg-logo="",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="KANADA"tvg-logo="",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="KANADA"tvg-logo="",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="KANADA"tvg-logo="",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",SPORT EN DIRECT
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",CBS SPORTS
+#http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="TÜRKMENİSTAN"tvg-logo="",TÜRKMENİSTAN SPOR
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="BREZİLYA"tvg-logo="",BAND SPORTS
+https://windnew.newkso.ru/wind/premium275/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="KOSTARİKA"tvg-logo="",TIGO SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
+#EXTINF:-1 tvg-id=""group-title="MEKSİKA"tvg-logo="",TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id=""group-title="ŞİLİ"tvg-logo="",TELETRAK
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="ARJANTİN"tvg-logo="",TYC SPORTS
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="",MATCH TV
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="" ,MATCH FOOTBALL 1
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="",MATCH FOOTBALL 2
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="",MATCH FOOTBALL 3
+https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="",MATCH PREMIER
+https://ddy6new.newkso.ru/ddy6/premium573/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV1
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV2
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV3
+https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV4
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV5
+https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="PORTEKİZ" tvg-logo="",SPORT TV6
+https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+## https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+## https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+##https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD", ESPN
+http://181.78.105.146:6060/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",ESPN
+## http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="HOLLANDA" tvg-logo="",ESPN
+https://windnew.newkso.ru/wind/premium387/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",ESPN2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",ESPN 3
+https://windnew.newkso.ru/wind/premium888/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD", ESPN 3
+http://181.78.105.146:6060/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD", ESPN 4
+http://181.78.105.146:6060/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD", ESPN 6
+http://181.78.105.146:6060/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İTALYA" tvg-logo="",SPORT ITALIA PLUS
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İTALYA" tvg-logo="",SPORT ITALIA 24
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA"tvg-logo="",L'EQUIPE 1
+https://jmp2.uk/sam-FRBC4200004XH.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA"tvg-logo="",L'EQUIPE 2
+https://jmp2.uk/sam-FRBC4200005X2.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA"tvg-logo="",INFO SPORT
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSVEÇ"tvg-logo="",TV4 MOTOR
+https://zekonew.newkso.ru/zeko/premium702/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="FRANSA" tvg-logo="",MOTOR VISION
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",SKY SPORT TENNIS
+https://windnew.newkso.ru/wind/premium884/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSVEÇ"tvg-logo="",TV4 TENNIS
+https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",TENNIS 1
+http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",TENNIS 2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="", TRUE 1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+## http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186574&extension=ts&play_token=j8tvtalOGI
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",TRUE 2
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+## http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_token=j8tvtalOGI
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",TRUE 3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",TRUE 4
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",TRUE 5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İTALYA" ,SPORT ITALIA
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE"tvg-logo="",VODAFONE SPORT
+https://windnew.newkso.ru/wind/premium260/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="UKRAYNA"tvg-logo="",SETANTA SPORTS
+http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="BAE"tvg-logo="",SHARJAH TV SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="BAE" tvg-logo="",ABU DHABI 1 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="BAE" tvg-logo="",ABU DHABI 2
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#EXTINF:-1 tvg-id=""group-title="BAE" tvg-logo="",Dubai Sport
+http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id=""group-title="RUSYA" tvg-logo="",MATCH BOETS
+https://windnew.newkso.ru/wind/premium395/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",FOX SPORTS 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",FOX SPORTS 2
+https://v1.thetvapp.to/hls/FoxSports2/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",FOX SPORTS 3
+http://181.78.105.146:6060/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",CBS SPORTS NETWORK
+http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",FSN
+https://zekonew.newkso.ru/zeko/premium904/mono.m3u8
+##https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA"tvg-logo="",ASTRAKHAN SPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="UKRAYNA"tvg-logo="", XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-id=""group-title="RUSYA"tvg-logo="",SBS FUTBOL
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-id=""group-title="PAKİSTAN"tvg-logo="",GEO SUPER
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="PAKİSTAN"tvg-logo="",A SPORTS
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="DUBAI"tvg-logo="",DUBAI SPORTS 2
+https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="DUBAI"tvg-logo="",DUBAI SPORTS 3
+https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="AFGANİSTAN"tvg-logo="",RTA SPORT
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",NBC SPORTS
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",EUROSPORT 1
+https://windnew.newkso.ru/wind/premium235/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",EUROSPORT 1
+https://windnew.newkso.ru/wind/premium233/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",EUROSPORT 2
+https://windnew.newkso.ru/wind/premium236/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ALMANYA"tvg-logo="",EUROSPORT 2
+https://windnew.newkso.ru/wind/premium232/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL" tvg-logo="", SPORT 1
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL" tvg-logo="", SPORT 2
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL" tvg-logo="", SPORT 3
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL" tvg-logo="", SPORT 4
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL"tvg-logo="",SPORT 5
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="İSRAİL"tvg-logo="",ONE 2
+https://ddy6new.newkso.ru/ddy6/premium542/mono.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",FAST STUDIOS KADIN
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+#EXTINF:-1 tvg-id=""group-title="İNGİLTERE" tvg-logo="",WOFS
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",BEIN X ABD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+#EXTINF:-1 tvg-id=""group-title="İSVEÇ" tvg-logo="",TV4 HOCKEY
+https://zekonew.newkso.ru/zeko/premium700/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",REDBULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id=""group-title="AVUSTURYA"tvg-logo="",REDBULL
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",NFL REDZONE
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",YES NETWORK
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",BIG TEN NETWORK
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",SEC NETWORK
+https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD" tvg-logo="",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",FUNDUEL
+https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",NHL NETWORK
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",ORIGIN SPORTS
+https://raycom-originsports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="ABD"tvg-logo="",NBC SPORTS
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",NBC SPORTS Philadelphia
+https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ABD"tvg-logo="",NBC SPORTS Boston
+https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
